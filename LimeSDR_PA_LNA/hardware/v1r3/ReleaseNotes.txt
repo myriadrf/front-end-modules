@@ -1,0 +1,23 @@
+LimeSDR-Sony Chnages:
+LimeSDR-Sony_Database v1.rar (Manufactured)
+			      - Initial 
+LimeSDR-Sony_Database v2.rar (Not manufactured)
+			     - Added PDF with lauout
+                             - In KiCad schematic library correted components details
+                             - Same BOM is generated with corret field values on some of the components, corrected BOM file revision is v1r2
+                             - New 'LimeSDR_Sony.net' and 'LimeSDR_Sony-pick_place_v1.pos' files is generated according to corrected BOM
+			     - In 'PCB Manufacturing info' folder in 'ReadMe' file Board Stackup corrected line: 'LimeSDR-Sony-Inner2_Signal.gbr (L3)' to 'LimeSDR-Sony-Inner3_Signal.gbr (L3)'
+                             - In 'PCB Manufacturing info' folder added stackup file 'LimeSDR v1r1 Stack-up by Fast Print.pdf'   
+                             - Added file 'LimeSDR-Sony Changes.txt'  
+LimeSDR-Sony_Database v3.rar New to update Schematics and Layout:
+                             - Corrected J3 footprint
+                             - Added second tactile button for MCU HWB line and place near RST button
+                             - Added 22R resistors to DATA- and DATA+ lines  
+			     - Remove R42 from +5V and added instead of FB1.
+                             - C106 value changed to 10nF
+                             - Marked connector J3 (UART) pins (RX, TX) for clarity reason
+                             - SMA Female conenctor part number is changed to fit board thiknes
+			     - XO1 is changed to XT1 reference name.    
+			     - Mark RF directions (arrows) on each board for clarity
+			     - Updated all related database files: pdf, gerbs, repot files, pick and place, BOM, Net
+  			     

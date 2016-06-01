@@ -1,0 +1,9 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+IC2        SAW_filter_SAWNICS_no_direction       4.725mm      7.5501mm       4.725mm      7.5501mm        3.25mm      6.8001mm  T         90.00 SAW filter (SAWNICS) TX
+IC1        SAW_filter_SAWNICS_no_direction      14.525mm      7.5501mm      14.525mm      7.5501mm       13.05mm      6.8001mm  T         90.00 SAW filter (SAWNICS) RX
+J1         SMA_connector_board_edge_SM      14.525mm     12.9001mm      14.525mm     12.8501mm      14.525mm     12.8501mm  T        180.00 SMA_SM_edge    
+J2         SMA_connector_board_edge_SM      14.525mm      2.2001mm      14.525mm      2.2501mm      14.525mm      2.2501mm  T        360.00 SMA_SM_edge    
+J3         SMA_connector_board_edge_SM       4.725mm     12.9001mm       4.725mm     12.8501mm       4.725mm     12.8501mm  T        180.00 SMA_SM_edge    
+J4         SMA_connector_board_edge_SM       4.725mm      2.2001mm       4.725mm      2.2501mm       4.725mm      2.2501mm  T        360.00 SMA_SM_edge    
+

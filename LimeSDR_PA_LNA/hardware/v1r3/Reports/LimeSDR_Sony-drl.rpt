@@ -1,0 +1,32 @@
+Drill report for D:\LIME-Ignas\PCB Design\PCB Projects\LimeSDR_Sony\LimeSDR-Sony_Database v3\KiCad Design files\LimeSDR_Sony.kicad_pcb
+Created on 23/05/2016 22:29:03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Front                     front
+    L2 :  Inner1_GND                inner1
+    L3 :  Inner2_Signal             inner2
+    L4 :  Inner3_Signal             inner3
+    L5 :  Inner4_Power              inner4
+    L6 :  Back                      back
+
+
+Drill file 'D:LimeSDR_Sony.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.20mm  0.008"  (237 holes)
+    T2  0.25mm  0.010"  (14 holes)
+    T3  0.30mm  0.012"  (465 holes)
+    T4  0.50mm  0.020"  (2 holes)  (with 2 slots)
+    T5  0.90mm  0.035"  (6 holes)
+    T6  1.50mm  0.059"  (4 holes)
+
+    Total plated holes count 728
+
+
+Drill file 'D:LimeSDR_Sony-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.00mm  0.039"  (24 holes)
+
+    Total unplated holes count 24

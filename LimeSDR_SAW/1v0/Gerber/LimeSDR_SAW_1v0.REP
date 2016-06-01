@@ -1,0 +1,196 @@
+*************************************************************
+FileName = LimeSDR_SAW_1v0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : LimeSDR_SAW_1v0.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : LimeSDR_SAW_1v0.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : LimeSDR_SAW_1v0.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LimeSDR_SAW_1v0.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : TopOverlay
+      File : LimeSDR_SAW_1v0.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : TopPaste
+      File : LimeSDR_SAW_1v0.GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : TopSolder
+      File : LimeSDR_SAW_1v0.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : BottomSolder
+      File : LimeSDR_SAW_1v0.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : BottomPaste
+      File : LimeSDR_SAW_1v0.GBP
+
+    Adding Layer      : BottomPaste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : BottomOverlay
+      File : LimeSDR_SAW_1v0.GBO
+
+    Adding Layer      : BottomOverlay
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical1
+      File : LimeSDR_SAW_1v0.GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : ASM BOT
+      File : LimeSDR_SAW_1v0.GM14
+
+    Adding Layer      : ASM BOT
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : ASM TOP
+      File : LimeSDR_SAW_1v0.GM15
+
+    Adding Layer      : ASM TOP
+
+
+Used DCodes :
+    D15
+    D16
+    D18
+    D21
+*************************************************************
+

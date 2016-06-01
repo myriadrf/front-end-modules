@@ -1,0 +1,11 @@
+** Drc report for C:\\KiCad Design files\LimeSDR_Sony.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (167.200 mm,125.800 mm): Pad 1 on Front, Back, Internal of GND_VIA net GND
+    @ (167.300 mm,119.400 mm): Pad 1 on Front, Back, Internal of GND_VIA
+
+** End of Report **
